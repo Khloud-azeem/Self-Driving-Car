@@ -12,4 +12,9 @@
 ## Backend
 - An api that receives the pictures from mobile app.
 - A computer vision algorithm for lane detection using Python. Depending on the lane shape at each moment, the algorithm generates a direction for the car to move.
-
+## Hardware
+- Car chassis
+- Four wheels
+- 4 DC Motors
+- Esp
+- Arduino
